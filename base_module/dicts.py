@@ -36,5 +36,3 @@ print('Values:', dict_values)
 # All items on a dict
 dict_items = list(person.items())
 print('Items:', dict_items)
-
-
